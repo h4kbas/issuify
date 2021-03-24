@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+.deneme {
+  height: 50px;
+  width: 80%;
+  background: #ccc;
+  margin: 5px;
+}
+
+.border {
+  outline: 1px dashed #000;
+}
